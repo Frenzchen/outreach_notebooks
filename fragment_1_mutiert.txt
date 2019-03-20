@@ -1,0 +1,10 @@
+BRAF normal
+-------------------
+DNA-Sequenz (Nukleotid 1395-1415): ...GGA-TCA-TTT-GGA-ACA-GTC-TAC...
+Protein-Sequenz (Aminosäure 466-472): ?
+
+
+BRAF mutiert (g469a)
+-------------------
+DNA-Sequenz (Nukleotid 1395-1415): ...GGA-TCA-TTT-GCA-ACA-GTC-TAC...
+Protein-Sequenz (Aminosäure 466-472): ?

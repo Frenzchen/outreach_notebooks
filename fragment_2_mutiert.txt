@@ -1,0 +1,10 @@
+BRAF normal
+-------------------
+DNA-Sequenz (Nukleotid 1746-1766): ...TTT-CTT-CAT-GAA-GAC-CTC-ACA...
+Protein-Sequenz (Aminosäure 583-589): ?
+
+
+BRAF mutiert (e586k)
+-------------------
+DNA-Sequenz (Nukleotid 1746-1766): ...TTT-CTT-CAT-AAA-GAC-CTC-ACA...
+Protein-Sequenz (Aminosäure 583-589): ?

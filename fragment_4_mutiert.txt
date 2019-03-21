@@ -1,10 +1,10 @@
 BRAF normal
 -------------------
-DNA-Sequenz (Nukleotid 1788-1808): ...CAC-CGC-AGT-GCA-TCA-GAA-CCC...
-Protein-Sequenz (Aminosäure 597-603): ?
+mRNA-Sequenz (Nukleotide 2173-2193): ...CAC-CGC-AGU-GCA-UCA-GAA-CCC...
+Proteinsequenz (Aminosäuren 725-731): ?
 
 
-BRAF mutiert (a728v)
+BRAF mutiert
 -------------------
-DNA-Sequenz (Nukleotid 2172-2192): ...CAC-CGC-AGT-GTA-TCA-GAA-CCC...
-Protein-Sequenz (Aminosäure 725-731): ?
+mRNA-Sequenz (Nukleotide 2173-2193): ...CAC-CGC-AGU-GUA-UCA-GAA-CCC...
+Proteinsequenz (Aminosäuren 725-731): ?

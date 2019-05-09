@@ -6,5 +6,5 @@ Proteinsequenz (Aminosäuren 597-603): ?
 
 BRAF mutiert
 -------------------
-mRNA-Sequenz (Nukleotide 1789-1809): ...CTA-GCT-ACA-GAG-AAA-TCT-CGA...
+mRNA-Sequenz (Nukleotide 1789-1809): ...CTA-GCT-ACA-GAA-AAA-TCT-CGA...
 Proteinsequenz (Aminosäuren 597-603): ?

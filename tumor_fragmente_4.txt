@@ -1,0 +1,9 @@
+- A A T G T T C A G T G G
+- A G T T T G T G G T C T
+- A T C C T C A G T T T G
+- C A A T C C T C A G T T
+- C A G T G G C G G G A A
+- C C A A T G T T C A G T
+- G G A A C T T G C A A T
+- G T G G C G G G A A C T
+- T T T G T G G T C T G C
